@@ -1,0 +1,4 @@
+Test suite hw5-test: RUNNING...
+Cases: 6  Tried: 0  Errors: 0  Failures: 0Cases: 6  Tried: 1  Errors: 0  Failures: 0Cases: 6  Tried: 2  Errors: 0  Failures: 0Cases: 6  Tried: 3  Errors: 0  Failures: 0Cases: 6  Tried: 4  Errors: 0  Failures: 0Cases: 6  Tried: 5  Errors: 0  Failures: 0                                          Cases: 6  Tried: 6  Errors: 0  Failures: 0
+Test suite hw5-test: PASS
+Test suite logged to: /home/andrey/Haskell_ITMO/homework-5-andreyDagger/hw5/dist-newstyle/build/x86_64-linux/ghc-9.4.8/hw5-0.1.0.0/t/hw5-test/test/hw5-0.1.0.0-hw5-test.log
